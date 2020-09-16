@@ -1,4 +1,11 @@
-# Convolutional neural networks and Transfer learning
+# Introduction to Neural Networks and Keras
+The following series of lectures were designed for the London campus of the Flatiron School Data Science program.
+
+They were delivered in this order with the following objectives:
+* [ ] Intro to Neural Nets
+* [ ] Intro to Keras
+* [ ] Neural Network MVPs
+* [ ] Convolutional Neural Networks and Transfer Learning
 
 
 ## Objectives
@@ -18,5 +25,6 @@ By the end of the lecture students should be able to:
 ## Resources
 
 [Visual](https://cs231n.github.io/convolutional-networks/#conv)<br>
-[Code along](https://github.com/learn-co-students/convolutional-neural-networks-dsc/blob/master/CNNs.ipynb)<br>
-[Exit ticket](https://forms.gle/Nxq9ShzmNLk5GiJy5)<br>
+[Code along](./CNNs.ipynb)<br>
+
+ 
